@@ -1,0 +1,9 @@
+{
+
+   "extends": "@silvermine/eslint-config/browser",
+
+   "globals": {
+      "chrome": true,
+      "cast": true
+   }
+}
